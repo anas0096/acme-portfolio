@@ -130,17 +130,23 @@ header a:hover{
         
         margin-left:5px;
     }
+    .getin{
+        text-align: center;
+    }
     .dark{
+        
         background-color:#35424a;
         margin: 10px 2px 10x 2px;
-        padding:5px;
+        
         color: #ffffff;
       
     }
     aside#sidebar{
         float: right;
         margin-top: 10px;
+        padding: 5px;
         width:30%;
+    
     }
     ul#services li{
         background-color:#e6e6e6;
@@ -156,7 +162,7 @@ header a:hover{
         margin-top: 60px;
     }
     aside#sidebar .quote input,aside#sidebar .quote textarea{
-        width:100%;
+        width:30%;
         float: left;
         
     }
@@ -217,7 +223,7 @@ footer p{
         
     }
     .quote button{
-        width:100%;
+        width:100%;}
        
     header{
         padding-bottom:20px;
