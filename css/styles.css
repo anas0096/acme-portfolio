@@ -141,12 +141,17 @@ header a:hover{
         color: #ffffff;
       
     }
+    aside#sidebar form input,aside#sidebar textarea{
+    margin-left: 100px;
+        
+    }
     aside#sidebar{
         float: right;
         margin-top: 10px;
         padding: 5px;
         width:30%;
-    
+    align-items: center;
+        text-align: center;
     }
     ul#services li{
         background-color:#e6e6e6;
